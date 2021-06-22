@@ -2,11 +2,18 @@ RENCANA BAHASA PROGRAM
 
 - Python
 * Tutorial Youtube
+  ^ Web Programming UNPAS
+  ^ Kelas Terbuka
+  ^ Clever Programming
 * Buku
 * Bootcamp
+  ^ Online
+       > algoexpert.io
+       > datacamp.com
 - C
 - C++
 - C#
 - Java
 - PHP
 - Go
+- Visual Basic
