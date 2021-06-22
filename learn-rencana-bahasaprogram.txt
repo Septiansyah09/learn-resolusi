@@ -2,6 +2,8 @@ RENCANA BAHASA PROGRAM
 
 - Python
 * Tutorial Youtube
+  ^ joma tech
+  ^ mayuko
   ^ Web Programming UNPAS
   ^ Kelas Terbuka
   ^ Clever Programming
