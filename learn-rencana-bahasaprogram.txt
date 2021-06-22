@@ -2,7 +2,8 @@ RENCANA BAHASA PROGRAM
 
 - Python
 * Tutorial Youtube
-* Buku
+  ^ joma tech
+  ^ mayuko
 * Bootcamp
 - C
 - C++
