@@ -4,10 +4,18 @@ RENCANA BAHASA PROGRAM
 * Tutorial Youtube
   ^ joma tech
   ^ mayuko
+  ^ Web Programming UNPAS
+  ^ Kelas Terbuka
+  ^ Clever Programming
+* Buku
 * Bootcamp
+  ^ Online
+       > algoexpert.io
+       > datacamp.com
 - C
 - C++
 - C#
 - Java
 - PHP
 - Go
+- Visual Basic
