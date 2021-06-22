@@ -1,6 +1,10 @@
 RENCANA BAHASA PROGRAM 
 
 - Python
+* Tutorial Youtube
+* Buku
+* Bootcamp
+
 - C++
 - C#
 - Java
